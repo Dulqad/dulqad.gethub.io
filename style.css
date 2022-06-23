@@ -169,11 +169,11 @@
 .action button{
     color: #3882f6;
     padding: 10px;
+    margin: 29px;
     border: 2px solid white;
     border-radius: 10px;
-    position: absolute;
-    top: 175%;
-    left: 65%;
+    float: right;
+    
 }
 .footer{
     width: 100%;
