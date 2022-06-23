@@ -153,15 +153,15 @@
 }
 .action{
     width: 50%;
-    height: 100px;
+    height: 200px;
     background-color: #3882f6;
     margin: 10px auto;
     border-radius: 15px;
 }
 
 .action h3{
-    margin: 10px;
-    padding-top: 10px;
+    padding-top: 30px;
+    margin: 10px 30px;
 }
 .action p{
     margin-left: 10px;
@@ -172,7 +172,7 @@
     border: 2px solid white;
     border-radius: 10px;
     position: absolute;
-    top: 185%;
+    top: 175%;
     left: 65%;
 }
 .footer{
